@@ -1,0 +1,16 @@
+{
+  "name": "autocompound",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "ethers": "^5.0.0",
+    "git": "^0.1.5",
+    "gitignore": "^0.7.0"
+  }
+}
